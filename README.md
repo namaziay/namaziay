@@ -4,7 +4,14 @@ I'm a Full-Stack software engineer experienced with Javascript, Node, Express, S
 
 🔭 Check out my latest projects! 😄
 
+TRIPHUT
 
+https://github.com/namaziay/TRIPHUT
+
+ZIMS
+
+
+MIXED TAPE
 
 
 
