@@ -1,4 +1,15 @@
-### Hi there 👋
+### Welcome to my Github! 👋
+
+I'm a Full-Stack software engineer experienced with Javascript, Node, Express, SQL, Mongo, React.
+
+🔭 Check out my latest projects! 😄
+
+
+
+
+
+
+📫  You can contact me through email: ayaan_namazi@hotmail.co.uk
 
 <!--
 **namaziay/namaziay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
