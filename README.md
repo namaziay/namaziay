@@ -10,10 +10,6 @@ TRIPHUT
 
 https://github.com/namaziay/TRIPHUT
 
-ZIMS
-
-https://github.com/namaziay/zims
-
 MIXED TAPE
 
 https://github.com/namaziay/mixed-tape-react
